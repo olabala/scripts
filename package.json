@@ -1,0 +1,11 @@
+{
+  "name": "badminton-court",
+  "version": "0.0.1",
+  "main": "app.js",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^0.20.0",
+    "node-localstorage": "^2.1.6",
+    "qs": "^6.9.4"
+  }
+}
